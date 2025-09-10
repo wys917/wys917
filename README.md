@@ -1,46 +1,37 @@
-### 👋 Hi, I'm Su Yiwen (苏易文)
+👋 你好，我是苏易文 (Su Yiwen)
+🎓 浙江大学 | 材料科学与工程
+<br>
+👨‍💻 计算机科学与技术 (转专业申请中)
 
-> A hardcore learner, intensely curious about computer systems, and driven to understand every detail from high-level code down to the CPU execution.
+一名极致的学习者，对计算机系统怀有强烈的好奇，致力于打通从顶层代码到底层CPU执行的每一处细节。
 
----
+🚀 关于我
+我是浙江大学材料科学专业的本科生，正全力以赴地为转入计算机科学与技术专业做准备。我的着迷之处不仅在于计算机能做什么，更在于它们 如何 做到。
+🎓 目前，我已加入**王小航教授的LLM芯片与系统优化课题组**，在这里深入探索大语言模型的底层优化技术，从芯片架构到系统软件的全栈优化。
 
-### 🚀 About Me
+🧠 我对计算机系统的底层原理抱有强烈的好奇心——从硬件体系结构、操作系统内核到编译器优化。
 
-I am a Materials Science undergraduate at Zhejiang University, currently on an aggressive and passionate journey to pivot into the world of Computer Science. My fascination isn't just with what computers can do, but **how** they do it.
+👨‍💻 我将高性能计算（HPC）作为我的主攻方向，已系统学习并实践了 CUDA、OpenMP 与 MPI 等并行计算技术。
 
-* 🧠 I'm driven by a deep curiosity for the foundational principles of computer systems—from hardware architecture and OS kernels to compiler optimizations.
-* 👨‍💻 My recent journey has been a deep dive into High-Performance Computing, where I've built a solid foundation in parallel programming using **CUDA, OpenMP, and MPI**.
-* 💡 I believe that a profound understanding of the underlying layers is the key to building truly efficient and powerful software. My goal is to bridge the gap between abstract algorithms and their physical execution on hardware.
+💡 我坚信，对底层的深刻理解是构建高效、强大软件的基石。我的目标是打通抽象算法与硬件物理执行之间的壁垒。
 
----
 
-### 🛠️ My Tech Stack
+🛠️ 我的技术栈
+类别	技术
+编程语言	C Python
+并行计算	CUDA OpenMP MPI
+开发工具	Git Linux Markdown
 
-Here are some of the tools and technologies I'm proficient with:
+Export to Sheets
+🌱 近期学习重点
+为转专业面试与未来学习，深入巩固C语言及系统编程。
 
-| Category | Technologies |
-| :--- | :--- |
-| **Programming Languages** | `C` `Python` |
-| **Parallel Computing** | `CUDA` `OpenMP` `MPI` |
-| **Libraries & Frameworks**| `NumPy` |
-| **Developer Tools** | `Git` `Linux` `Markdown` |
+整理并重构我的五个HPC实验项目与一项大作业，形成完整的知识体系。
 
----
+主动学习 LLM 与 Transformer 的底层架构，为未来进入相关领域研究打下基础。
 
-### 🌱 I'm Currently...
+🎯 长期目标
+我的长期目标是深入探索从硬件逻辑门到现代操作系统与编译器的全栈知识，并利用这些深刻的系统知识，为开发高效能、高性能的应用软件做出贡献。
 
-* revisiting foundational texts on systems programming to build a rock-solid understanding of C and low-level concepts.
-* consolidating my HPC knowledge by refactoring and documenting my **five key lab projects and one major assignment**.
-* exploring the world of Artificial Intelligence, with a current focus on understanding the architecture of **Neural Networks and Transformers**.
-
----
-
-### 🔭 My Ultimate Goal
-
-My long-term ambition is to continue exploring the full stack of computer science, from the logic gates of hardware architecture to the complexities of modern operating systems and compilers. I aim to leverage this deep systems knowledge to contribute to the development of efficient, high-performance applications.
-
----
-
-### 📫 How to Reach Me
-
-* **Email**: `3240103466@zju.edu.cn` 
+📫 联系我
+电子邮箱: 3240103466@zju.edu.cn
