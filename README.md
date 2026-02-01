@@ -1,41 +1,48 @@
-### 👋 你好，我叫苏易文 (Hi, I'm Su Yiwen)
+## 👋 Hi, I'm Yiwen Su
 
-> 一个系统软件的探索者，坚信伟大的软件构建于对底层硬件的深刻尊重之上。
+I'm an undergraduate student majoring in **Computer Science** at **Zhejiang University**, with a strong interest in **modeling complex systems involving temporal and structural dependencies**.
 
-🎓 **浙江大学** | **计算机科学与技术** 本科在读
+🎓 **Zhejiang University**  
+B.S. in Computer Science and Technology (Sophomore)
 
-------
+---
 
-### 🚀 关于我
+## 🚀 About Me
 
-我是一名浙江大学计算机科学与技术的本科生，对“引擎盖之下”的世界——从CPU架构到操作系统内核——抱有极大的热情。
+I am currently an undergraduate student in Computer Science at Zhejiang University.  
+My early training focused on **systems and high-performance computing**, which gave me a solid understanding of low-level computation, parallelism, and system efficiency.
 
-我的系统探索之旅始于对**高性能计算 (HPC)** 的一次深潜。在那里，我亲眼见证了对硬件的理解如何能带来数量级的性能提升。这段经历也确立了我的目标：**成为一名打通抽象算法与物理硅片之间壁垒的工程师。**
+As I explored research problems that involve real-world data and modeling, my interests gradually shifted toward **AI-driven modeling approaches**, especially for data with **temporal dynamics and structured relationships**, such as **time series and spatio-temporal systems**.
 
-- 🧠 **核心领域**: 计算机体系结构、操作系统、编译技术
-- 💻 **实践方向**: 高性能计算 (`CUDA`, `OpenMP`, `MPI`)
-- 🔬 **当前研究**: 我是**王小航教授课题组**的成员，正参与大语言模型（LLM）推理的系统级优化研究。
+I am currently participating in research activities in the **AINet group**, where I focus on **time series modeling, spatio-temporal data analysis, and their applications in real-world systems**.
 
-------
+---
 
-### 🛠️ 工具箱与技能
+## 🔍 Research Interests
 
-| 类别 | 技术与工具 |
-| :--- | :--- |
-| **编程语言** | `C`, `Python`, `C++ (正在深入)` |
-| **并行计算** | `CUDA`, `OpenMP`, `MPI` |
-| **系统与性能** | `Linux`, `Git`, `Intel VTune Profiler`, `GDB` |
+- Time Series Modeling  
+- Spatio-Temporal Data Analysis  
+- AI for Structured and Temporal Data  
+- Data-Driven Modeling for Complex Systems  
 
-------
+---
 
-### 🌱 当前进行时
+## 🛠️ Skills & Tools
 
-- 🎯 **夯实计算机核心基础**: 全力以赴地学习操作系统、计算机组成等核心专业课程。
-- 🔬 **深入课题组研究**: 积极为LLM推理优化的项目做出贡献。
-- 🏗️ **构建个人项目**: 打造能体现底层系统理解的个人项目作品集。
+- **Languages**: Python, C, C++  
+- **ML / Data**: PyTorch, NumPy, Pandas  
+- **Systems**: Linux, Git, basic parallel computing  
 
-------
+---
 
-### 📫 联系我
+## 🌱 Currently Working On
 
-- **Email**: `3240103466@zju.edu.cn`
+- Research training and projects in the AINet group  
+- Learning methods for time series and spatio-temporal modeling  
+- Exploring the combination of system-level understanding and data-driven modeling  
+
+---
+
+## 📫 Contact
+
+- Email: `3240103466@zju.edu.cn`
