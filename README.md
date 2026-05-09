@@ -1,48 +1,38 @@
-## 👋 Hi, I'm Yiwen Su
+## Hi, I'm Yiwen Su
 
-I'm an undergraduate student majoring in **Computer Science** at **Zhejiang University**, with a strong interest in **modeling complex systems involving temporal and structural dependencies**.
+I'm a Computer Science undergraduate at Zhejiang University, currently focused on time series modeling, spatio-temporal data, and AI-oriented engineering.
 
-🎓 **Zhejiang University**  
-B.S. in Computer Science and Technology (Sophomore)
+## About me
 
----
+My earlier training was in systems and high-performance computing, which gave me a solid foundation in low-level performance, parallelism, and engineering rigor.
 
-## 🚀 About Me
+My current interests are centered on AI for temporal and structured data, especially time series and spatio-temporal modeling. I'm also building a long-term study and project archive to organize my coursework, notes, reports, and technical explorations.
 
-I am currently an undergraduate student in Computer Science at Zhejiang University.  
-My early training focused on **systems and high-performance computing**, which gave me a solid understanding of low-level computation, parallelism, and system efficiency.
+## Current focus
 
-As I explored research problems that involve real-world data and modeling, my interests gradually shifted toward **AI-driven modeling approaches**, especially for data with **temporal dynamics and structured relationships**, such as **time series and spatio-temporal systems**.
+- Time series modeling
+- Spatio-temporal data analysis
+- AI for structured and temporal data
+- Building a long-term study and project archive
 
-I am currently participating in research activities in the **AINet group**, where I focus on **time series modeling, spatio-temporal data analysis, and their applications in real-world systems**.
+## Tools I use in study and projects
 
----
+- Python, C, C++
+- PyTorch, NumPy, Pandas
+- Git, Linux
+- Some background in systems and parallel computing
 
-## 🔍 Research Interests
+I mainly use these tools in coursework, experiments, and self-driven projects, and I'm still learning by building.
 
-- Time Series Modeling  
-- Spatio-Temporal Data Analysis  
-- AI for Structured and Temporal Data  
-- Data-Driven Modeling for Complex Systems  
+## Where to start
 
----
+- [Study site](https://wys917.github.io/syw-study-site/): course notes, reports, and project archives
+- Selected repositories: projects I want to keep improving and presenting
 
-## 🛠️ Skills & Tools
+## Beyond coding
 
-- **Languages**: Python, C, C++  
-- **ML / Data**: PyTorch, NumPy, Pandas  
-- **Systems**: Linux, Git, basic parallel computing  
+I've also taken student leadership roles, including serving as a class Youth League secretary and as the head of new media in the robotics association.
 
----
-
-## 🌱 Currently Working On
-
-- Research training and projects in the AINet group  
-- Learning methods for time series and spatio-temporal modeling  
-- Exploring the combination of system-level understanding and data-driven modeling  
-
----
-
-## 📫 Contact
+## Contact
 
 - Email: `3240103466@zju.edu.cn`
