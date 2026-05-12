@@ -26,7 +26,7 @@ I mainly use these tools in coursework, experiments, and self-driven projects, a
 
 ## Where to start
 
-- [Study site](https://wys917.github.io/syw-study-site/): course notes, reports, and project archives
+- [Study site](https://wys917.github.io/syw-study-site/) *(work in progress)*: course notes, reports, and project archives
 - Selected repositories: projects I want to keep improving and presenting
 
 ## Beyond coding
